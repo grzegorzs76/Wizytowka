@@ -43,8 +43,7 @@ a{
 	height:100%;
 	background-size:1980px;
     width:5940px;
-    /*background-attachment:fixed;*/
-	background-repeat:no-repeat;
+  	background-repeat:no-repeat;
 }
 
 .window {
