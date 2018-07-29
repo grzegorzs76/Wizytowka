@@ -59,9 +59,9 @@ a{
 }
 
 .photo:hover{
-	-webkit-transform: scale(1.2);
-	-ms-transform: scale(1.2);
-	transform: scale(2);
+	-webkit-transform: scale(1.5);
+	-ms-transform: scale(1.5);
+	transform: scale(1.5);
 }
 .img-rounded{
 	width:300px;
